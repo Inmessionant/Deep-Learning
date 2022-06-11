@@ -406,10 +406,12 @@ conda install cudnn
 
 - [x] **FCOS:** Fully Convolutional One-Stage Object Detection（Anchor free）
 
-  https://arxiv.org/abs/1904.01355
+  https://arxiv.org/pdf/2006.09214.pdf（2020）
 
   https://zhuanlan.zhihu.com/p/62869137
 
+  https://mp.weixin.qq.com/s/2YiLmypIMuJQledtE-Utfw
+  
   
 
 
