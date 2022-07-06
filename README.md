@@ -76,13 +76,9 @@ conda install cudnn
 
 - [ ] Pattern Recognition and Machine Learning
 - [ ] Convex Optimization
-- [ ] Numerical optimization
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 - [ ] Building Machine Learning Powered Applications Going from Idea to Product
 - [ ] Patterns, Predictions, and Actions- A Story About Machine Learning
-- [ ] Book 0: “Machine Learning: A Probabilistic Perspective” (2012)
-- [ ] Book 1: “Probabilistic Machine Learning: An Introduction” (2021)
-- [ ] Book 2: “Probabilistic Machine Learning: Advanced Topics” (2022)
 
 
 
@@ -559,7 +555,7 @@ conda install cudnn
 
 
 
-- [x] Towards Open World Object Detection
+- [ ] Towards Open World Object Detection
 
   https://arxiv.org/abs/2103.02603
 
