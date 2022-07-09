@@ -47,7 +47,6 @@ conda install cudnn
 
 
 
-- [x] Python数据结构与算法分析
 - [ ] Effective Python：编写高质量Python代码的90个有效方法
 - [ ] 利用Python进行数据分析
 - [ ] 流畅的Python
@@ -62,7 +61,7 @@ conda install cudnn
 
 
 
-- [ ] C++ Primer
+- [x] C++ Primer
 
 
 
@@ -74,16 +73,17 @@ conda install cudnn
 
 
 
+- [ ] 百面机器学习
+- [ ] 机器学习练习册（Exercises in Machine Learning）：https://arxiv.org/pdf/2206.13446.pdf
 - [ ] Pattern Recognition and Machine Learning
 - [ ] Convex Optimization
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 - [ ] Building Machine Learning Powered Applications Going from Idea to Product
-- [ ] Patterns, Predictions, and Actions- A Story About Machine Learning
 
 
 
 - [ ] 林轩田 - 机器学习基石和技法
-- [ ] 李宏毅 - Machine Learning [2019机器学习, 2021深度学习]
+- [ ] 李宏毅 - Machine Learning（2019机器学习, 2021深度学习）
 
 
 
@@ -95,7 +95,7 @@ conda install cudnn
 
 
 
-- [x] Neural Networks and Deep Learning
+- [ ] 百面深度学习
 - [ ] Deep Learning
 - [ ] Deep Learning for Coders With Fastai and Pytorch
 
@@ -104,9 +104,7 @@ conda install cudnn
 - [ ] 邱锡鹏 - 神经网络与深度学习
 - [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://courses.d2l.ai/zh-v2/
 
-- [ ] CS224n: Natural Language Processing with Deep Learning
-- [x] CS231n: Convolutional Neural Networks for Visual Recognition
-- [ ] CS 285: Deep Reinforcement Learning
+- [ ] 深度学习 - 纽约大学：https://www.bilibili.com/video/BV1Lb4y1X77t?spm_id_from=333.337.search-card.all.click&vd_source=76d72bc0e66dc04e5ace0a2a6b2cd8a0
 
 
 
