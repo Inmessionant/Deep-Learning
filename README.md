@@ -62,6 +62,7 @@ conda install cudnn
 
 
 - [x] C++ Primer
+- [ ] Effective C++：改善程序与设计的55个具体做法
 
 
 
@@ -74,9 +75,8 @@ conda install cudnn
 
 
 - [ ] 百面机器学习
-- [ ] 机器学习练习册（Exercises in Machine Learning）：https://arxiv.org/pdf/2206.13446.pdf
+- [ ] 统计学习方法
 - [ ] Pattern Recognition and Machine Learning
-- [ ] Convex Optimization
 - [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 - [ ] Building Machine Learning Powered Applications Going from Idea to Product
 
@@ -98,10 +98,10 @@ conda install cudnn
 - [ ] 百面深度学习
 - [ ] Deep Learning
 - [ ] Deep Learning for Coders With Fastai and Pytorch
-
-
-
 - [ ] 邱锡鹏 - 神经网络与深度学习
+
+
+
 - [x] 李沐 - 动手学习深度学习（PyTorch）v2：https://courses.d2l.ai/zh-v2/
 
 - [ ] 深度学习 - 纽约大学：https://www.bilibili.com/video/BV1Lb4y1X77t?spm_id_from=333.337.search-card.all.click&vd_source=76d72bc0e66dc04e5ace0a2a6b2cd8a0
