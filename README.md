@@ -48,8 +48,8 @@ conda install cudnn
 
 
 - [ ] Effective Python：编写高质量Python代码的90个有效方法
-- [ ] 利用Python进行数据分析
-- [ ] 流畅的Python
+- [ ] 利用Python进行数据分析（第二版）
+- [ ] 流畅的Python（第二版）
 
 
 
@@ -61,8 +61,20 @@ conda install cudnn
 
 
 
-- [x] C++ Primer
-- [ ] Effective C++：改善程序与设计的55个具体做法
+- [x] C++ Primer（第五版）
+- [ ] Effective C++：改善程序与设计的55个具体做法（第五版）
+
+
+
+------
+
+
+
+## 操作系统
+
+
+
+- [ ] 陈海波 - 现代操作系统：原理与实现
 
 
 
@@ -75,10 +87,9 @@ conda install cudnn
 
 
 - [ ] 百面机器学习
-- [ ] 统计学习方法
+- [ ] 李航 - 统计学习方法第二版
 - [ ] Pattern Recognition and Machine Learning
-- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
-- [ ] Building Machine Learning Powered Applications Going from Idea to Product
+- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow（第二版）
 
 
 
@@ -95,9 +106,8 @@ conda install cudnn
 
 
 
-- [ ] 百面深度学习
-- [ ] Deep Learning
-- [ ] Deep Learning for Coders With Fastai and Pytorch
+- [ ] Hulu - 百面深度学习
+- [ ] Goodfellow Bengio - Deep Learning
 - [ ] 邱锡鹏 - 神经网络与深度学习
 
 
