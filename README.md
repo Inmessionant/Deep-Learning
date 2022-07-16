@@ -48,10 +48,14 @@ conda install cudnn
 
 
 - [ ] Effective Python：编写高质量Python代码的90个有效方法
+
 - [ ] 利用Python进行数据分析（第二版）
+
 - [ ] 流畅的Python（第二版）
 
+- [ ] [Numpy QuickStart](https://numpy.org/doc/stable/user/quickstart.html)
 
+  
 
 ------
 
