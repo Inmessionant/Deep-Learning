@@ -79,10 +79,10 @@ conda install cudnn
 
 
 - [ ] 陈海波 - 现代操作系统：原理与实现
+- [ ] Operating Systems:Three Easy Pieces  操作系统导论
+
+
 - [ ] 蒋炎岩 - 南京大学操作系统
-- [ ] Operating Systems:Three Easy Pieces
-
-
 
 ------
 
