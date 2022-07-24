@@ -49,11 +49,15 @@ conda install cudnn
 
 - [ ] Effective Python：编写高质量Python代码的90个有效方法
 
-- [ ] 利用Python进行数据分析（第二版）
+- [ ] 利用Python进行数据分析
 
-- [ ] 流畅的Python（第二版）
+- [ ] 流畅的Python
 
 - [ ] [Numpy QuickStart](https://numpy.org/doc/stable/user/quickstart.html)
+
+
+
+- [x] Python小技巧：https://space.bilibili.com/8032966/favlist?fid=413538&ftype=collect&ctype=21
 
   
 
@@ -65,8 +69,12 @@ conda install cudnn
 
 
 
-- [x] C++ Primer（第五版）
-- [ ] Effective C++：改善程序与设计的55个具体做法（第五版）
+- [x] C++ Primer
+- [ ] Effective C++：改善程序与设计的55个具体做法
+
+
+
+- [x] C++细节：https://space.bilibili.com/8032966/favlist?fid=573867&ftype=collect&ctype=21
 
 
 
@@ -99,12 +107,13 @@ conda install cudnn
 - [ ] 百面机器学习
 - [ ] 李航 - 统计学习方法第二版
 - [ ] Pattern Recognition and Machine Learning
-- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow（第二版）
+- [ ] Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 
 
 - [ ] 林轩田 - 机器学习基石和技法
 - [ ] 李宏毅 - Machine Learning（2019机器学习, 2021深度学习）
+- [ ] 十分钟机器学习：https://www.bilibili.com/video/BV1No4y1o7ac?spm_id_from=333.999.0.0&vd_source=76d72bc0e66dc04e5ace0a2a6b2cd8a0
 
 
 
